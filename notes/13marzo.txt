@@ -1,0 +1,6 @@
+Tarea Instalacion de MariaDB
+----------------------------
+
+Paso 6
+	- Se dejaria en blanco el root de MariaDb
+

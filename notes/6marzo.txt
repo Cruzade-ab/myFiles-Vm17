@@ -1,0 +1,38 @@
+Notas de Clase
+--------------
+
+Comands
+#######
+
+
+	-sudo: To execute as root user 
+
+Herramientas
+============
+
+-sudo apt install nmap
+
+
+Pasos para isntalar ufw
+=======================
+	-sudo apt install ufw
+	
+
+
+1- Check Status	
+	sudo ufw status
+
+2- Habilitar UFW 
+	sudo ufw enable
+
+3- Verify IP
+	hostname -I
+
+4- Verify Conecction
+	ping 172.16.5.82
+		Atack Example: DDS
+5-Cerrar Puertos
+	-sudo ufw deny 22 
+
+
+

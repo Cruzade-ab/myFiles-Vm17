@@ -1,0 +1,9 @@
+Prueba para archivos BAckup
+___________________________
+
+
+Directorio Example02 - Archivo Example
+
+Este texto sera comprimido.
+
+

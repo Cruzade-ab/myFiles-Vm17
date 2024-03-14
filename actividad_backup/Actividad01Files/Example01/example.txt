@@ -1,0 +1,6 @@
+Texto de prueba para verificar archivos comprimidos
+###################################################
+
+	Este archivo sera el Excluido
+
+
